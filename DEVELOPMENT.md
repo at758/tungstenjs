@@ -1,6 +1,6 @@
 # Development
 
-## Pre-requisites
+## Pre-Req
 
 Tungsten.js supports [nodejs] versions **4.0.0** and later.
 
