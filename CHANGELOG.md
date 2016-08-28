@@ -1,6 +1,6 @@
 ## Changelog
 
-* 0.8.0 Add components
+* 0.8.0 Add components for tungsten new
 * 0.7.0 Switch HTML parser
 * 0.6.0 Template abstraction
 * 0.5.0 Add debugger
